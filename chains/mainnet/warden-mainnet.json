@@ -1,0 +1,28 @@
+{
+  "chain_name": "Warden-Mainnet",
+  "registry_name": "Warden-Mainnet",
+  "coingecko": "",
+  "api": ["https://warden-mainnet-api.corenodehq.xyz"],
+  "rpc": ["https://warden-mainnet-rpc.corenodehq.xyz"],
+  "snapshot_provider": "",
+  "sdk_version": "v0.50.9-evmos-warden",
+  "coin_type": "118",
+  "min_tx_fee": "200",
+  "addr_prefix": "warden",
+  "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/main/logos/wardenm.png",
+  "evm": {
+    "evm_rpc": ["https://evm.wardenprotocol.org"],
+    "chain_id": 8765
+  },
+  "docs": {
+  "github_raw": "https://raw.githubusercontent.com/Core-Node-Team/Warden-Mainnet/refs/heads/main/README.md",
+  "gitbook": "https://services.corenodehq.xyz/mainnet/warden-mainnet"
+},
+  "assets": [{
+    "base": "award",
+    "symbol": "WARD",
+    "exponent": "18",
+    "coingecko_id": "warden-2",
+    "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/main/logos/wardenm.png"
+  }]
+}

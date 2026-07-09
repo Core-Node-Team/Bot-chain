@@ -1,0 +1,46 @@
+{
+  "chain_name": "Push-testnet",
+  "registry_name": "Push-testnet",
+  "coingecko": "",
+  "api": ["https://push-testnet-api.corenodehq.xyz"],
+  "rpc": ["https://push-testnet-api.corenodehq.xyz"],
+  "snapshot_provider": "",
+  "sdk_version": "",
+  "coin_type": "60",
+  "addr_prefix": "push",
+  "min_tx_fee": "1000000000",
+  "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/main/logos/push.png",
+  "keplr_features": [
+    "eth-address-gen",
+    "eth-key-sign"
+  ],
+  "pubkey_type": {
+    "cosmos": "/cosmos.evm.crypto.v1.ethsecp256k1.PubKey"
+  },
+  "evm": {
+    "evm_rpc": ["https://push-testnet-evm.corenodehq.xyz"],
+    "chain_id": 42101
+  },
+  "docs": {
+    "github_raw": "https://raw.githubusercontent.com/Core-Node-Team/Push-Chain/refs/heads/main/README.md",
+    "gitbook": "https://services.corenodehq.xyz/testnet/Push-testnet"
+  },
+  "fees": {
+    "fee_tokens": [
+      {
+        "denom": "upc",
+        "fixed_min_gas_price": 10000000000,
+        "low_gas_price": 10000000000,
+        "average_gas_price": 15000000000,
+        "high_gas_price": 20000000000
+      }
+    ]
+  },
+  "assets": [{
+    "base": "upc",
+    "symbol": "PC",
+    "exponent": "18",
+    "coingecko_id": "push",
+    "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/main/logos/push.png"
+  }]
+}

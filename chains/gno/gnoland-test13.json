@@ -1,0 +1,27 @@
+{
+  "chain_name": "gnoland-test13",
+  "registry_name": "Gno.land Test13",
+  "coingecko": "",
+  "rpc": ["https://rpc.test13.testnets.gno.land"],
+  "snapshot_provider": "",
+  "sdk_version": "",
+  "coin_type": "118",
+  "addr_prefix": "g",
+  "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/main/logos/gno.png",
+  "chain_type": "gnoland",
+  "gno_chain_id": "test13",
+  "valopers_realm": "gno.land/r/gnops/valopers",
+  "validators_realm": "gno.land/r/sys/validators/v3",
+  "gnoweb_url": "https://test13.testnets.gno.land",
+  "docs": {
+    "gitbook": "https://docs.gno.land",
+    "github_raw": "https://raw.githubusercontent.com/gnolang/gno/master/README.md"
+  },
+  "assets": [{
+    "base": "ugnot",
+    "symbol": "GNOT",
+    "exponent": "6",
+    "coingecko_id": "",
+    "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/main/logos/gno.png"
+  }]
+}

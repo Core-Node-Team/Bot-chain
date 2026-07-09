@@ -1,0 +1,17 @@
+{
+  "chain_name": "lumera-mainnet",
+  "api": ["https://lumera-mainnet-api.corenodehq.xyz"],
+  "rpc": ["https://lumera-mainnet-rpc.corenodehq.xyz"],
+  "sdk_version": "v0.50.13",
+  "addr_prefix": "lumera",
+  "min_tx_fee": "0.025",
+  "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumera/images/lumera.png",
+  "assets": [
+    {
+      "symbol": "LUME",
+      "base": "ulume",
+      "exponent": 6,
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumera/images/lumera.png"
+    }
+  ]
+}

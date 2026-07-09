@@ -1,0 +1,16 @@
+{
+    "chain_name": "Republic",
+    "api": ["https://republic-test-api.corenodehq.xyz"],
+    "rpc": ["https://republic-test-rpc.corenodehq.xyz"],
+    "sdk_version": "v0.50.8",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "rai",
+    "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/refs/heads/main/logos/539970918-65d091ad-2604-44eb-aae0-f59fe63309f5.png",
+    "assets": [{
+        "base": "arai",
+        "symbol": "RAI",
+        "exponent": "18",
+        "logo": "/logos/republic.svg"
+    }]
+}

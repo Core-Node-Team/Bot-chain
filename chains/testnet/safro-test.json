@@ -1,0 +1,34 @@
+{
+  "chain_name": "safrochain-testnet",
+  "api": [
+    {
+      "address": "https://safrochain-testnet-api.coinsspor.com",
+      "provider": "coinsspor"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://safrochain-testnet-rpc.coinsspor.com",
+      "provider": "coinsspor"
+    }
+  ],
+  "grpc": [
+    {
+      "address": "safrochain-testnet-grpc.coinsspor.com:443",
+      "provider": "coinsspor"
+    }
+  ],
+  "coin_type": 118,
+  "min_tx_fee": 1000,
+  "sdk_version": "0.50.13",
+  "addr_prefix": "saf",
+  "logo": "https://raw.githubusercontent.com/coinsspor/coinsspor/refs/heads/main/safrologo.png",
+  "assets": [
+    {
+      "base": "usaf",
+      "symbol": "SAF",
+      "exponent": 6,
+      "logo": "https://raw.githubusercontent.com/coinsspor/coinsspor/refs/heads/main/safrologo.png"
+    }
+  ]
+}

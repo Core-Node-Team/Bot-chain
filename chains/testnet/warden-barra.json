@@ -1,0 +1,20 @@
+{
+  "chain_name": "Warden-Barra",
+  "registry_name": "Warden-Barra",
+  "coingecko": "",
+  "api": ["https://warden-testnet-api.mictonode.com"],
+  "rpc": ["https://warden-testnet-rpc.mictonode.com"],
+  "snapshot_provider": "",
+  "sdk_version": "v0.50.9-evmos-warden",
+  "coin_type": "118",
+  "min_tx_fee": "200",
+  "addr_prefix": "warden",
+  "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/main/logos/warden.png",
+  "assets": [{
+    "base": "award",
+    "symbol": "WARD",
+    "exponent": "18",
+    "coingecko_id": "",
+    "logo": "https://raw.githubusercontent.com/molla202/CoreNode-explorer/main/logos/warden.png"
+  }]
+}

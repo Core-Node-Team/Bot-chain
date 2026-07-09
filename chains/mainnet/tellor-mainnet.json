@@ -1,0 +1,18 @@
+{
+  "chain_name": "Tellor-Mainnet",
+  "api": ["https://mainnet.tellorlayer.com","https://api.tellor.nodestake.org"],
+  "rpc": ["https://mainnet.tellorlayer.com/rpc","https://rpc.tellor.nodestake.org"],
+  "coin_type": 118,
+  "min_tx_fee": 500,
+  "sdk_version": "0.50.9",
+  "addr_prefix": "tellor",
+  "logo": "https://pbs.twimg.com/profile_images/1855433907556044800/_Bo9JjTR_400x400.png",
+  "assets": [
+    {
+      "base": "loya",
+      "symbol": "LOYA",
+      "exponent": 6,
+      "logo": "https://pbs.twimg.com/profile_images/1855433907556044800/_Bo9JjTR_400x400.png"
+    }
+  ]
+}

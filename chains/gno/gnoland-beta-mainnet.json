@@ -1,6 +1,6 @@
 {
-  "chain_name": "gnoland-test13",
-  "registry_name": "Gno.land Test13",
+  "chain_name": "gnoland-beta-mainnet",
+  "registry_name": "Gno.land Beta Mainnet",
   "coingecko": "",
   "rpc": ["https://rpc.gno.land"],
   "snapshot_provider": "",

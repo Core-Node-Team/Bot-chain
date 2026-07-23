@@ -3,7 +3,6 @@
   "registry_name": "Gno.land Test13",
   "coingecko": "",
   "rpc": [
-    "https://gnoland-test-rpc.corenodehq.xyz",
     "https://gnoland-test13-rpc.oshvank.xyz",
     "https://gnoland-testnet-rpc.itrocket.net",
     "https://gno.rpc.testnet.cumulo.me",
